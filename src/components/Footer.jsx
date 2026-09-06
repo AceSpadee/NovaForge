@@ -2,7 +2,9 @@ function Footer() {
     return (
         <footer className="footer">
             <p className="footer-brand">NovaForge</p>
-            <p className="footer-tagline">Modern web solutions for small businesses.</p>
+            <p className="footer-tagline">
+                Modern websites and web solutions for small businesses.
+            </p>
 
             <nav aria-label="Footer navigation">
                 <ul>
