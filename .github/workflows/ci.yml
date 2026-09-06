@@ -28,3 +28,7 @@ jobs:
 
       - name: Build project
         run: npm run build
+        env:
+          RESEND_API_KEY: ci-placeholder
+          TURNSTILE_SECRET_KEY: ci-placeholder
+          CONTACT_TO_EMAIL: ci@example.com
