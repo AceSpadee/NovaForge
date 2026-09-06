@@ -4,7 +4,7 @@ NovaForge is a full-stack agency-style web application built as a production-foc
 
 ## Live Site
 
-Deployed with Cloudflare Workers.
+[View NovaForge](https://novaforge.novaforgeweb.workers.dev)
 
 ## Features
 
