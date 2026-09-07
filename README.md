@@ -2,6 +2,10 @@
 
 NovaForge is a full-stack agency-style web application built as a production-focused development project. It demonstrates the process of taking a modern web application from local development through deployment, accessibility testing, security improvements, and automated CI/CD.
 
+## Preview
+
+![NovaForge website preview](./docs/novaforge-preview.png)
+
 ## Live Site
 
 [View NovaForge](https://novaforge.novaforgeweb.workers.dev)
